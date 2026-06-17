@@ -4,8 +4,8 @@ import { OWNER_IDS } from '../config.js';
 // Add each affiliated server here — 'guildId': 'roleId'
 // The bot will only assign the LT role in servers listed here.
 const GUILD_ROLE_MAP = {
-  // '1234567890123456789': '9876543210987654321',  // Server Name — LT Role
-  // '1111111111111111111': '2222222222222222222',  // Server Name — LT Role
+  // '1444653984492294166': '1445645618948345998',  // Server Name — LT Role
+  // '1479957975094268145': '1479958428737601646',  // Server Name — LT Role
 };
 
 export const data = new SlashCommandBuilder()
